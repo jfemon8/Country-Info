@@ -1,0 +1,25 @@
+.card-container{
+    border: 2px solid greenyellow;
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.5);
+}
+
+.img-container{
+    align-items: center;
+    text-align: center;
+}
+
+.card-container img{
+    height: 10rem;
+}
+
+.button-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.country-visited{
+    background-color: #213547;
+}
