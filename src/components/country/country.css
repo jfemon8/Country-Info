@@ -23,3 +23,9 @@
 .country-visited{
     background-color: #213547;
 }
+
+@media only screen and (max-width: 600px){
+    .card-container img{
+        max-width: 100%;
+    }
+}
